@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+##  欢迎查询 app相关逻辑
 
-You can use the [editor on GitHub](https://github.com/dongyouWu/app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+你可以在这篇文档找到 app 相关逻辑说明
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
